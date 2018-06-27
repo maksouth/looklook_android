@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_explore"
+        android:icon="@drawable/heart"
+        android:title="@string/menu_explore" />
+    <item
+        android:id="@+id/empty"
+        android:enabled="false"
+        android:checkable="false"
+        android:title="" />
+    <item
+        android:id="@+id/action_saved"
+        android:icon="@drawable/home"
+        android:title="@string/menu_saved" />
+
+</menu>

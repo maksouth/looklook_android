@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "444644475387",
+    "firebase_url": "https://looklook-89bfa.firebaseio.com",
+    "project_id": "looklook-89bfa",
+    "storage_bucket": "looklook-89bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444644475387:android:c35c52d8788b6f61",
+        "android_client_info": {
+          "package_name": "com.stripeyapps.looklook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444644475387-t8so4nn0sj7l9vmm5b2lj2sh848ln21e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stripeyapps.looklook",
+            "certificate_hash": "128f76241e813c6296a65ec2a69e6c06c6c4bbe2"
+          }
+        },
+        {
+          "client_id": "444644475387-7hll1eqv75lfph767e7mpu2i6ntcdraj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stripeyapps.looklook",
+            "certificate_hash": "99d5cdfce370d4429c4ec1a4f2f3d44b502b69ea"
+          }
+        },
+        {
+          "client_id": "444644475387-jh09aq9761c0g45pptti6p1ev23pkq0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stripeyapps.looklook",
+            "certificate_hash": "3cfbabce36f418b9adb00d06d8e42ac098ad23a5"
+          }
+        },
+        {
+          "client_id": "444644475387-1kb7dptmp8hl4ua3imte2opom6euc399.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5KjxNh49xvsmmxlhKiCzxTpXoK_o1eE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444644475387-1kb7dptmp8hl4ua3imte2opom6euc399.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

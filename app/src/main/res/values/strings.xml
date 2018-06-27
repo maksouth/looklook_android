@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LookLook</string>
+    <!-- bottom navigation menu -->
+    <string name="menu_saved">History</string>
+    <string name="menu_upload">Upload</string>
+    <string name="menu_explore">Explore</string>
+    <!-- upload -->
+    <string name="next">next</string>
+    <string name="upload">upload</string>
+    <string name="loading_rate_posts">Loading users posts..</string>
+    <string name="error_upload_failed">Failed to upload image</string>
+    <string name="error_image_fetch">Failed to fetch image</string>
+    <string name="upload_completed">Upload completed</string>
+    <string name="loading_upload_post">Uploading your post</string>
+    <string name="help_others_before_upload">help 3 other people before upload</string>
+    <!-- saved posts -->
+    <string name="loading_saved_posts">Loading your images..</string>
+    <string name="error_load_images">Failed to load images</string>
+    <!-- explore posts -->
+    <string name="loading_explore_posts">Loading posts..</string>
+    <string name="error_loading_posts">Failed to load posts..</string>
+    <string name="empty_no_posts">No posts to show</string>
+    <string name="empty_no_posts_explore">No posts to rate</string>
+    <string name="empty_no_posts_saved">You don\'t have posts yet. Create one now!</string>
+</resources>
